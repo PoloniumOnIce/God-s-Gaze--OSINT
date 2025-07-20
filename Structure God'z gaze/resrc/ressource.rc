@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDI_WIFI_ON    ICON    "wifi_on.ico"
+IDI_WIFI_OFF   ICON    "wifi_off.ico"
